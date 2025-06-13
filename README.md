@@ -9,7 +9,6 @@ A simple repository template for setting up Terraform projects quickly.
 - Modular Terraform structure
 - Environment-specific configuration
 - Automated backend setup
-- Pre-configured CI/CD integration
 
 ## Getting Started
 
