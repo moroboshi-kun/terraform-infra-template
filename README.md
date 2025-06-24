@@ -48,6 +48,7 @@ Contains **resusable, self-contained Terraform modules**. Each subdirectory repr
 - Terraform >= 1.0
 - AWS CLI (if using AWS)
 - [Other provider CLIs as needed]
+- pre-commit [if using pre-commit with Git hooks]
 
 ## Usage
 
