@@ -35,9 +35,6 @@ A simple repository template for setting up Terraform projects quickly.
 
 Defines **environment-specific Terraform configurations**, such as `dev`, `staging`, `prod`, etc.
 
-`global/`
-
-Contains **shared, project-wide configuration files** used across all environments.
 
 `modules`
 
