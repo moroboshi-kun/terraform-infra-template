@@ -24,7 +24,6 @@ A simple repository template for setting up Terraform projects quickly.
 │   ├── dev/
 │   ├── prod/
 │   └── staging/
-├── global/
 ├── LICENSE
 ├── Makefile
 ├── modules/
